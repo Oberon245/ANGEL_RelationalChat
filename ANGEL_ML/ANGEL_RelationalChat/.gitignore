@@ -1,0 +1,4 @@
+# Ignore Jupyter checkpoints and temp files
+**/.ipynb_checkpoints/
+notebook/Untitled.ipynb
+memory/
