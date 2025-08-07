@@ -1,0 +1,17 @@
+# ANGEL_RelationalChat
+
+This repository contains the prototype for a real-time conversational simulation notebook as part of the ANGEL Project.  
+The notebook, `ANGEL_RelationalChat.ipynb`, includes functionality for:
+
+- Emotional token tagging
+- Memory logging of user input and AI responses
+- Real-time feedback of dominant emotional tone
+- Adaptive AI responses based on emotional context
+- Optional session log saving for longitudinal analysis
+
+Future development goals include wrapping the logic into a live conversation interface using CLI or Streamlit.
+
+---
+
+## Structure
+
